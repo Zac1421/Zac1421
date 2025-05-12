@@ -10,3 +10,5 @@
 Zac1421/Zac1421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+gitignore
+cd /path/to/your/ai-webpt-project
